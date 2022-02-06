@@ -1,0 +1,4 @@
+
+
+class CreateCarPlaceFlow:
+    pass
