@@ -7,3 +7,5 @@ Status of Last Deployment:<br>
 ## Розробники (підтримка)
 [Настя Костенюк](https://t.me/Anastasia_Kostenyuk)
 
+## Архітектура сервісу v0.1
+[Структурна діаграма](https://drive.google.com/file/d/1uN8Gi66MCfFkrCaCPQvIPpSTTOxkT0qN/view?usp=sharing)
